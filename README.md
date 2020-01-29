@@ -144,30 +144,6 @@ If you would like add something, just send the text as you would like it to appe
 * [More books...](http://www.freetechbooks.com/index.php/formal-methods-f28.html)
 * [Formal Methods of Software Design](https://www.cs.utoronto.ca/~hehner/FMSD/)
 
-## In Russian
-
-#### Управление проектами
-
-* [Черная книга менеджера](http://www.stratoplan.ru/free/mbb/) ([pdf](http://labs.stratoplan.ru/wmbook-03-01/black_book.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/black_book.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/black_book.mobi)) Слава Панкратов
-* [Белая книжная полка менеджера](http://labs.stratoplan.ru/wmbook-03-01/) ([epub](http://labs.stratoplan.ru/wmbook-03-01/wmbook.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/wmbook.mobi), [zip](http://labs.stratoplan.ru/wmbook-03-01/wmbook.zip))
-* Как стать менеджером ([pdf](http://labs.stratoplan.ru/wmbook-03-01/it_manager.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/it_manager.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/it_manager.mobi)) - Слава Панкратов, Александр Орлов
-* [It starts with a great product](https://www.intercom.com/books/product-management)
-
-#### Тестирование ПО
-
-* [Test-Driven Development in Practice](https://github.com/risik/tdd-book) - Сергей Борисов
-* [Тестирование программного обеспечения. Базовый курс.](http://svyatoslav.biz/software_testing_book/) - Святослав Куликов
-* [Всё, что вам нужно знать о форматах отчётов в тестировании ПО](https://gist.github.com/ligurio/6efa8576e175fa0fb5d04cfe5c85a2a5) - Сергей Бронников
-* [Руководство по тестированию пользовательского опыта для сайтов, мобильных приложений и прототипов](https://uxcrowd.ru/file/guide.pdf)
-* [Автоматизация тестирования от «А» до «Ы»](https://alpaev.com/testautomation/) - Gennadiy Alpaev
-* [Учебник по SilkTest](https://alpaev.com/silktest/) - Gennadiy Alpaev
-* [Учебник по TestComplete](https://alpaev.com/testcomplete/) - Gennadiy Alpaev
-
-#### Формальные методы
-
-* [Верификация программ методом Model Checking](http://intsys.msu.ru/staff/mironov/modelchk.pdf) - А.М.Миронов
-* [Практикум по математической логике. Coq.](http://www.mi.ras.ru/~sk/lehre/coq/coq_pract.pdf)
-
 # Courses
 
 ## In English
@@ -292,45 +268,6 @@ If you would like add something, just send the text as you would like it to appe
 * mCRL2 [System Validation (2): Model process behaviour](https://www.coursera.org/learn/system-validation-behavior)
 * mCRL2 [System Validation (3): Requirements by modal formulas](https://www.coursera.org/learn/system-validation-modal-formulas)
 * mCRL2 [System Validation (4): Modelling Software, Protocols, and other behaviour](https://www.coursera.org/learn/system-validation-software-protocols)
-
-## In Russian
-
-* [Основы программной инженерии](https://compscicenter.ru/courses/seintro/2012-spring/), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAWPPoDKwsZJcyOWmNiVPT4D) - Владимир Ицыксон
-- [Основы программной инженерии (SWEBOK 2004 на русском) в EPUB и HTML](https://github.com/ligurio/swebok-ru)
-* [Введение в программную инженерию](http://www.intuit.ru/studies/courses/497/353/info)
-* [Введение в технологию программирования](http://www.intuit.ru/studies/courses/2262/160/info)
-* [Юнит-тестирование и метрики покрытия кода тестами](https://www.lektorium.tv/lecture/13635)
-* [Методы анализа и обеспечения качества ПО](http://kspt.icc.spbstu.ru/course/QA)
-
-#### Тестирование ПО
-
-* [Основы тестирования программного обеспечения](http://universarium.org/course/526)
-* [Основы тестирования ПО](https://itvdn.com/ru/video/testing-process)
-* [Основы тестирования программного обеспечения](http://www.intuit.ru/studies/courses/48/48/info)
-* [Школа автоматизации процессов разработки](https://academy.yandex.ru/events/testing/spb-2014/)
-* [Школа тестирования баннерной системы](https://academy.yandex.ru/events/testing/msk-2014/)
-* [Software Testing](http://compsciclub.ru/courses/softwaretesting/2008-spring/)
-* Software Testing 101 ([на английском](http://kspt.ftk.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-101.pdf), [на русском](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-101-ru.pdf))
-* [Software Testing 102](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-102v2.pdf)
-* [Software Testing 103](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-102v3.pdf)
-* [Тестирование ПО](http://kspt.icc.spbstu.ru/2014/course/software-testing)
-* Школа тестирования: [Ручное тестирование и Автоматизация тестирования](https://academy.yandex.ru/events/testing/spb-2016/) ([Youtube](https://www.youtube.com/playlist?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR))
-* [Тестирование на основе моделей](https://www.lektorium.tv/course/22774) ([слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf)), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAU1LAGzq5S0ARQjXs3TAY3K) - Кулямин Виктор
-* [Серия семинаров по тестированию (автоматизация)](https://www.youtube.com/playlist?list=PL-_cKNuVAYAV4VSQQK5AWMBImQ8kf6cnr) - Сергей Андреев
-* [Тестирование ПО: Базовый уровень](https://stepik.org/course/16478) - курс основан на официальной программе обучения "Сертифицированный тестировщик ПО Базового уровня" ISTQB и предназначен для подготовки к сдаче сертификационных экзаменов
-
-#### Формальная верификация ПО
-
-* [Верификация программ на моделях](https://www.youtube.com/user/ksavenkov/playlists)
-* [Верификация параллельных и распределенных программных систем](https://www.lektorium.tv/course/22862?id=22862) ([Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUw3pNeradNr8zwOXKQ1IZA) - Юрий Карпов
-* [Формальные методы обеспечения качества ПО](http://kspt.icc.spbstu.ru/2010/course/quality)
-* [Верификация программного обеспечения](http://www.intuit.ru/studies/courses/1040/209/info)
-* [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
-* [Введение в формальные методы верификации программ](http://sp.cs.msu.ru/courses/vmp/kamkin_mc2018.pdf) -- А.С. Камкин
-* [Методы верификации программного обеспечения](https://www.ispras.ru/publications/2008/methods_of_software_verification/) -- В.В. Кулямин
-* [Формальная спецификация и верификация программ](https://www.youtube.com/playlist?list=PLk5aZ4JAk_ZO32dammZRXxnSGhUSjOJzZ) ([практикум](http://mfsp.cmc.msu.ru/w/wp-content/uploads/2015/07/Deductive-Verification-Practicum.pdf))
-* [Введение в язык формальной верификации Coq](https://compsciclub.ru/courses/intro-to-coq/2019-autumn/about/) - Антон Трунов
-* [Введение в верификацию программ](https://www.youtube.com/playlist?list=PLQ-XJe6nVU5BwX1gV80aDhwW0Jt3tipIY) - Антон Трунов (спецкурс для МФТИ)
 
 # Workshops and interactive learning tools
 
